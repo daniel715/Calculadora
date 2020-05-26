@@ -1,0 +1,45 @@
+#subtitulo
+{
+	text-align: center;
+	color: red;
+}
+
+#titulo
+{
+	text-align: center;
+	color: yellowgreen;
+}
+
+#marcocalculadora
+{
+	background-color: aqua;
+	border-style: solid;
+	border-color: black;
+	display: block;
+	margin: 0 auto;
+	padding: 20px;
+	height:480px;
+	width: 300px;
+	border-radius: 25px;
+}
+
+
+#marcocalculadora td button
+{
+	font-size: 20px;
+	display: block;
+	width: 70px;
+	height: 70px;
+	margin: auto;
+}
+
+#resultado
+{
+	border-radius: 15px;
+	background-color: white;
+	margin-bottom: 50px;
+	border-width: 2px;
+	display: block;
+	width: 300px;
+	height: 100px;
+}
